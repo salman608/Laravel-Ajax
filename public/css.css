@@ -1,0 +1,9 @@
+.load{
+  position: fixed;
+  left: 35%;
+  text-align: center;
+  top: 15%;
+  z-index: 9999;
+  margin: auto;
+  display: none;
+}
